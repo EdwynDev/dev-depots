@@ -171,7 +171,7 @@ function waitForRunCompletion($threadId, $runId, $apiKey)
     <meta property="og:title" content="NEO POLY WORKS - DEPOTS | AI BOT ASSISTANCE">
     <meta property="og:description" content="AI Helper de la Plateforme de gestion de missions et de dépôts de fichiers pour les participants au projet NEO POLY WORKS. Réponds à toute vos question concernant le dépots.">
     <meta property="og:image" content="/INCLUDE/chatbot.png">
-    <meta property="og:url" content="https://depots.neopolyworks.fr/chatbot-fullscreen.php">
+    <meta property="og:url" content="https://devdepots.neopolyworks.fr/chatbot-fullscreen.php">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="NEO POLY WORKS - DEPOTS | AI BOT ASSISTANCE">
 
@@ -345,7 +345,7 @@ function waitForRunCompletion($threadId, $runId, $apiKey)
             });
 
             document.getElementById('back').addEventListener('click', function() {
-                window.open('https://depots.neopolyworks.fr/');
+                window.open('https://devdepots.neopolyworks.fr/');
             });
 
             document.getElementById('scroll-to-top').addEventListener('click', function() {

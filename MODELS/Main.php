@@ -1177,7 +1177,7 @@ class Main
                             "> Par : <@%s> (%s)\n" .
                             "> Domaine : %s\n" .
                             "\n**Chefs concernés :**\n%s\n" .
-                            "\n[Voir la mission](https://depots.neopolyworks.fr/info_mission.php?id=%d)",
+                            "\n[Voir la mission](https://devdepots.neopolyworks.fr/info_mission.php?id=%d)",
                         $mission['name'],
                         $mission['assignee_id'],
                         $mission['username'],

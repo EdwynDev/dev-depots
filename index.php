@@ -20,7 +20,7 @@ if (isset($_SESSION['discord_user'])) {
 
 $client_id = DISCORD_CLIENT_ID;
 $client_secret = DISCORD_CLIENT_SECRET;
-$redirect_uri = 'https://depots.neopolyworks.fr/index.php';
+$redirect_uri = 'https://devdepots.neopolyworks.fr/index.php';
 $scope = 'identify';
 
 function redirectToDiscord($client_id, $redirect_uri, $scope)

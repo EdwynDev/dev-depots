@@ -41,7 +41,7 @@ if (isset($_POST['comment_id']) && isset($_POST['reaction_type'])) {
                     "**Réaction:** %s\n" .
                     "**De:** %s\n" .
                     "**Mission:** %s\n" .
-                    "**Lien:** https://depots.neopolyworks.fr/info_mission.php?id=%d#comment-%d",
+                    "**Lien:** https://devdepots.neopolyworks.fr/info_mission.php?id=%d#comment-%d",
                     $reactions[$reactionType] ?? $reactionType,
                     $reactorName,
                     $mission['name'],

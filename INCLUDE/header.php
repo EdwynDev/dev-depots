@@ -11,7 +11,7 @@
     <meta property="og:title" content="NEO POLY WORKS - DEPOTS">
     <meta property="og:description" content="Plateforme de gestion de missions et de dépôts de fichiers pour les participants au projet NEO POLY WORKS.">
     <meta property="og:image" content="/INCLUDE/favicon.png">
-    <meta property="og:url" content="https://depots.neopolyworks.fr/">
+    <meta property="og:url" content="https://devdepots.neopolyworks.fr/">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="NEO POLY WORKS - DEPOTS">
 

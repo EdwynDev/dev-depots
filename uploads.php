@@ -130,7 +130,7 @@ require_once __DIR__ . "/INCLUDE/header.php";
             <div class="bg-gray-800 rounded-lg p-6 shadow-lg">
                 <div class="border-b border-gray-700 pb-4 mb-4">
                     <h3 class="text-xl font-semibold text-white">
-                        <a href="https://depots.neopolyworks.fr/info_mission.php?id=<?php echo $mission['id']; ?>" title="<?php echo htmlspecialchars($mission['name']); ?>">
+                        <a href="https://devdepots.neopolyworks.fr/info_mission.php?id=<?php echo $mission['id']; ?>" title="<?php echo htmlspecialchars($mission['name']); ?>">
                             <?php echo substr($mission['name'], 0, 45); ?>[...]
                             <br>
                             <span class="px-6 py-4 text-sm text-blue-400 hover:text-blue-300">Cliquez pour voir les détails de la mission.</span>

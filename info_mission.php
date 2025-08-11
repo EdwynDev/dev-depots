@@ -132,7 +132,7 @@ if (isset($_POST['add_comment']) && ($isChef || $isRef)) {
                     "> <@%s>, vous avez reçu un nouveau commentaire sur votre mission !\n" .
                         "**De:** %s\n" .
                         "**Mission:** %s\n" .
-                        "**Lien:** https://depots.neopolyworks.fr/info_mission.php?id=%d#comment-%d",
+                        "**Lien:** https://devdepots.neopolyworks.fr/info_mission.php?id=%d#comment-%d",
                     $mission['assignee_id'],
                     $commentAuthor,
                     $mission['name'],
