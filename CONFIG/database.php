@@ -4,9 +4,9 @@ namespace Config;
 class Database
 {
     private $host = "localhost";
-    private $dbname = "u316670446_uploads_projet";
-    private $username = "u316670446_admin";
-    private $password = "!b0GNPvWKN/";
+    private $dbname = "u316670446_devdepots";
+    private $username = "u316670446_devdepots";
+    private $password = "ak.QDT44AEdtqwS";
     public $conn;
     public function connect()
     {
